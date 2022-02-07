@@ -3,7 +3,7 @@ Key Concepts in Microservices
 
 1.  write a [test for flask](https://flask.palletsprojects.com/en/2.0.x/testing/#testing-json-apis) or [fastapi](https://fastapi.tiangolo.com/tutorial/testing/) or both
 2.  [test with github actions](https://github.com/noahgift/flask-change-microservice/blob/main/.github/workflows/main.yml)
-3.  deploy to somewhere (aws app runner, elastic beanstalk, gcp app engine, ecs, etc)
+3.  deploy to somewhere (aws app runner, elastic beanstalk, gcp app engine, ecs, deploy as container (be creative))
 4.  *if time* use [postman](https://www.postman.com) to query service
 5.  *if time* loadtest with [loader.io](https://loader.io) or [locust](https://locust.io) or [apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html)
 6.  *if time* build web form and/or template
