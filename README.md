@@ -5,7 +5,7 @@ Key Concepts in Microservices
 2.  [test with github actions](https://github.com/noahgift/flask-change-microservice/blob/main/.github/workflows/main.yml)
 3.  deploy to somewhere (aws app runner, elastic beanstalk, gcp app engine, etc)
 4.  *if time* use [postman](https://www.postman.com) to query service
-5.  *if time* loadtest with loader.io or locust
+5.  *if time* loadtest with [loader.io](https://loader.io) or [locust](https://locust.io) or [apache bench](https://httpd.apache.org/docs/2.4/programs/ab.html)
 6.  *if time* build web form and/or template
 
 ![IMG_0171 2](https://user-images.githubusercontent.com/58792/152852240-3918ab4e-6095-4924-823a-043229089901.jpg)
