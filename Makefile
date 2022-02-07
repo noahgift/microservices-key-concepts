@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv test_fastapi.py test_add.py
+	python -m pytest -vv --cov=mainFastApi test_fastapi.py test_add.py
 
 format:
 	black *.py
