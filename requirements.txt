@@ -4,3 +4,4 @@ Flask==2.0.2
 pytest==7.0.0
 pylint==2.12.2
 uvicorn==0.17.4
+requests
