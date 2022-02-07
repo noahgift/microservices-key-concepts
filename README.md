@@ -1,7 +1,7 @@
 # microservices-key-concepts
 Key Concepts in Microservices
 
-1.  write a test for flask or fastapi or both
+1.  write a [test for flask](https://flask.palletsprojects.com/en/2.0.x/testing/#testing-json-apis) or [fastapi](https://fastapi.tiangolo.com/tutorial/testing/) or both
 2.  [test with github actions](https://github.com/noahgift/flask-change-microservice/blob/main/.github/workflows/main.yml)
 3.  deploy to somewhere (aws app runner, elastic beanstalk, gcp app engine, etc)
 4.  *if time* use [postman](https://www.postman.com) to query service
