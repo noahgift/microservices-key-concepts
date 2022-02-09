@@ -9,6 +9,14 @@ Key Concepts in Microservices
 6.  *if time* [build web form and/or template](https://fastapi.tiangolo.com/tutorial/request-forms/)
 
 
+### Fargate steps
+
+1. ECS console
+2. Create cluster with new VPC
+3. Use Fargate Task 
+
+
+
 ### Additional Labs
 
 * [qwiklab flask gae](https://www.qwiklabs.com/focuses/3339?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=15416391)
