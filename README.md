@@ -15,6 +15,7 @@ Key Concepts in Microservices
 2. Create cluster with new VPC
 3. Use Fargate Task 
 
+![ecs](https://user-images.githubusercontent.com/58792/153271290-6906e097-f351-454a-acbf-7bb1e9e1fb9d.png)
 
 
 ### Additional Labs
